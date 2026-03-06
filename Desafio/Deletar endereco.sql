@@ -1,0 +1,2 @@
+-- Active: 1772562490026@@127.0.0.1@3306
+ALTER TABLE frutarias DROP COLUMN endereco;
