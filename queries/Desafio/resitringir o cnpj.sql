@@ -1,0 +1,6 @@
+-- Active: 1772562490026@@127.0.0.1@3306
+ALTER TABLE frutarias DROP COLUMN cnpj;
+
+ALTER TABLE frutarias ADD cnpj INTEGER;
+
+ALTER TABLE frutarias ADD cnpj INTEGER NOT NULL DEFAULT valor;
