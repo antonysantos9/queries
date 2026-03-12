@@ -1,2 +1,2 @@
 -- Active: 1772562490026@@127.0.0.1@3306
-ALTER TABLE frutaria RENAME TO frutarias;
+ALTER TABLE Frutarias RENAME TO frutariass;
